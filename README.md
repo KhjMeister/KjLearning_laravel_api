@@ -7,7 +7,7 @@
 - clean coded
 - laravel 9
 
-## Front-end art still on development
+## Front-end part still on development
 
 ![image](https://user-images.githubusercontent.com/95680946/217926472-351a6eaf-fd68-47ea-ab15-3ccd6e284e87.png)
 
