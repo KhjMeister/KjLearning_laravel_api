@@ -9,6 +9,10 @@
 
 ## Front-end part still on development
 
+- nextjs
+- redux
+- reactstrap
+
 ![image](https://user-images.githubusercontent.com/95680946/217926472-351a6eaf-fd68-47ea-ab15-3ccd6e284e87.png)
 
 ![image](https://user-images.githubusercontent.com/95680946/217926772-d0d88b09-365d-4446-88bd-038f56a4d837.png)
